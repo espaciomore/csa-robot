@@ -1,0 +1,4113 @@
+{
+  "12\/1\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512162900000,
+      "endTime": 1512163800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512163800000,
+      "endTime": 1512164700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512164700000,
+      "endTime": 1512165600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512165600000,
+      "endTime": 1512166500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512166500000,
+      "endTime": 1512167400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/2\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512212400000,
+      "endTime": 1512213300000,
+      "slots": 4,
+      "maxSlots": 5,
+      "isUsed": true,
+      "totalUsed": 1,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512213300000,
+      "endTime": 1512214200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512214200000,
+      "endTime": 1512215100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512215100000,
+      "endTime": 1512216000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512216000000,
+      "endTime": 1512216900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512216900000,
+      "endTime": 1512217800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512217800000,
+      "endTime": 1512218700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512218700000,
+      "endTime": 1512219600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512219600000,
+      "endTime": 1512220500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512220500000,
+      "endTime": 1512221400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512221400000,
+      "endTime": 1512222300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512222300000,
+      "endTime": 1512223200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512223200000,
+      "endTime": 1512224100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512224100000,
+      "endTime": 1512225000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512225000000,
+      "endTime": 1512225900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512225900000,
+      "endTime": 1512226800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512226800000,
+      "endTime": 1512227700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512227700000,
+      "endTime": 1512228600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512228600000,
+      "endTime": 1512229500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512229500000,
+      "endTime": 1512230400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512230400000,
+      "endTime": 1512231300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512231300000,
+      "endTime": 1512232200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512232200000,
+      "endTime": 1512233100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512233100000,
+      "endTime": 1512234000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512234000000,
+      "endTime": 1512234900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512234900000,
+      "endTime": 1512235800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512235800000,
+      "endTime": 1512236700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512236700000,
+      "endTime": 1512237600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512237600000,
+      "endTime": 1512238500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512238500000,
+      "endTime": 1512239400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512239400000,
+      "endTime": 1512240300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512240300000,
+      "endTime": 1512241200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512241200000,
+      "endTime": 1512242100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512242100000,
+      "endTime": 1512243000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512243000000,
+      "endTime": 1512243900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512243900000,
+      "endTime": 1512244800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/3\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512298800000,
+      "endTime": 1512299700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512299700000,
+      "endTime": 1512300600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512300600000,
+      "endTime": 1512301500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512301500000,
+      "endTime": 1512302400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512302400000,
+      "endTime": 1512303300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512303300000,
+      "endTime": 1512304200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512304200000,
+      "endTime": 1512305100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512305100000,
+      "endTime": 1512306000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512306000000,
+      "endTime": 1512306900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512306900000,
+      "endTime": 1512307800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512307800000,
+      "endTime": 1512308700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512308700000,
+      "endTime": 1512309600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512309600000,
+      "endTime": 1512310500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512310500000,
+      "endTime": 1512311400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512311400000,
+      "endTime": 1512312300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512312300000,
+      "endTime": 1512313200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512313200000,
+      "endTime": 1512314100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512314100000,
+      "endTime": 1512315000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512315000000,
+      "endTime": 1512315900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512315900000,
+      "endTime": 1512316800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512316800000,
+      "endTime": 1512317700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512317700000,
+      "endTime": 1512318600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512318600000,
+      "endTime": 1512319500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512319500000,
+      "endTime": 1512320400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/4\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512381600000,
+      "endTime": 1512382500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512382500000,
+      "endTime": 1512383400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512383400000,
+      "endTime": 1512384300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512384300000,
+      "endTime": 1512385200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512385200000,
+      "endTime": 1512386100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512386100000,
+      "endTime": 1512387000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512387000000,
+      "endTime": 1512387900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512387900000,
+      "endTime": 1512388800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512388800000,
+      "endTime": 1512389700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512389700000,
+      "endTime": 1512390600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512390600000,
+      "endTime": 1512391500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512391500000,
+      "endTime": 1512392400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512392400000,
+      "endTime": 1512393300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512393300000,
+      "endTime": 1512394200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512394200000,
+      "endTime": 1512395100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512395100000,
+      "endTime": 1512396000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512396000000,
+      "endTime": 1512396900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512396900000,
+      "endTime": 1512397800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512397800000,
+      "endTime": 1512398700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512398700000,
+      "endTime": 1512399600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512399600000,
+      "endTime": 1512400500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512400500000,
+      "endTime": 1512401400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512401400000,
+      "endTime": 1512402300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512402300000,
+      "endTime": 1512403200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512403200000,
+      "endTime": 1512404100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512404100000,
+      "endTime": 1512405000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512405000000,
+      "endTime": 1512405900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512405900000,
+      "endTime": 1512406800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512406800000,
+      "endTime": 1512407700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512407700000,
+      "endTime": 1512408600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512408600000,
+      "endTime": 1512409500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512409500000,
+      "endTime": 1512410400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512410400000,
+      "endTime": 1512411300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512411300000,
+      "endTime": 1512412200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512412200000,
+      "endTime": 1512413100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512413100000,
+      "endTime": 1512414000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512414000000,
+      "endTime": 1512414900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512414900000,
+      "endTime": 1512415800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512415800000,
+      "endTime": 1512416700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512416700000,
+      "endTime": 1512417600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512417600000,
+      "endTime": 1512418500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512418500000,
+      "endTime": 1512419400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512419400000,
+      "endTime": 1512420300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512420300000,
+      "endTime": 1512421200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512421200000,
+      "endTime": 1512422100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512422100000,
+      "endTime": 1512423000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512423000000,
+      "endTime": 1512423900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512423900000,
+      "endTime": 1512424800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512424800000,
+      "endTime": 1512425700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512425700000,
+      "endTime": 1512426600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/5\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512468000000,
+      "endTime": 1512468900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512468900000,
+      "endTime": 1512469800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512469800000,
+      "endTime": 1512470700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512470700000,
+      "endTime": 1512471600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512471600000,
+      "endTime": 1512472500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512472500000,
+      "endTime": 1512473400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512473400000,
+      "endTime": 1512474300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512474300000,
+      "endTime": 1512475200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512475200000,
+      "endTime": 1512476100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512476100000,
+      "endTime": 1512477000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512477000000,
+      "endTime": 1512477900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512477900000,
+      "endTime": 1512478800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512478800000,
+      "endTime": 1512479700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512479700000,
+      "endTime": 1512480600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512480600000,
+      "endTime": 1512481500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512481500000,
+      "endTime": 1512482400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512482400000,
+      "endTime": 1512483300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512483300000,
+      "endTime": 1512484200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512484200000,
+      "endTime": 1512485100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512485100000,
+      "endTime": 1512486000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512486000000,
+      "endTime": 1512486900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512486900000,
+      "endTime": 1512487800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512487800000,
+      "endTime": 1512488700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512488700000,
+      "endTime": 1512489600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512489600000,
+      "endTime": 1512490500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512490500000,
+      "endTime": 1512491400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512491400000,
+      "endTime": 1512492300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512492300000,
+      "endTime": 1512493200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512493200000,
+      "endTime": 1512494100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512494100000,
+      "endTime": 1512495000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512495000000,
+      "endTime": 1512495900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512495900000,
+      "endTime": 1512496800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512496800000,
+      "endTime": 1512497700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512497700000,
+      "endTime": 1512498600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512498600000,
+      "endTime": 1512499500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512499500000,
+      "endTime": 1512500400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512500400000,
+      "endTime": 1512501300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512501300000,
+      "endTime": 1512502200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512502200000,
+      "endTime": 1512503100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512503100000,
+      "endTime": 1512504000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512504000000,
+      "endTime": 1512504900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512504900000,
+      "endTime": 1512505800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512505800000,
+      "endTime": 1512506700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512506700000,
+      "endTime": 1512507600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512507600000,
+      "endTime": 1512508500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512508500000,
+      "endTime": 1512509400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512509400000,
+      "endTime": 1512510300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512510300000,
+      "endTime": 1512511200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512511200000,
+      "endTime": 1512512100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512512100000,
+      "endTime": 1512513000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/6\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512554400000,
+      "endTime": 1512555300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512555300000,
+      "endTime": 1512556200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512556200000,
+      "endTime": 1512557100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512557100000,
+      "endTime": 1512558000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512558000000,
+      "endTime": 1512558900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512558900000,
+      "endTime": 1512559800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512559800000,
+      "endTime": 1512560700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512560700000,
+      "endTime": 1512561600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512561600000,
+      "endTime": 1512562500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512562500000,
+      "endTime": 1512563400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512563400000,
+      "endTime": 1512564300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512564300000,
+      "endTime": 1512565200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512565200000,
+      "endTime": 1512566100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512566100000,
+      "endTime": 1512567000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512567000000,
+      "endTime": 1512567900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512567900000,
+      "endTime": 1512568800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512568800000,
+      "endTime": 1512569700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512569700000,
+      "endTime": 1512570600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512570600000,
+      "endTime": 1512571500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512571500000,
+      "endTime": 1512572400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512572400000,
+      "endTime": 1512573300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512573300000,
+      "endTime": 1512574200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512574200000,
+      "endTime": 1512575100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512575100000,
+      "endTime": 1512576000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512576000000,
+      "endTime": 1512576900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512576900000,
+      "endTime": 1512577800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512577800000,
+      "endTime": 1512578700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512578700000,
+      "endTime": 1512579600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512579600000,
+      "endTime": 1512580500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512580500000,
+      "endTime": 1512581400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512581400000,
+      "endTime": 1512582300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512582300000,
+      "endTime": 1512583200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512583200000,
+      "endTime": 1512584100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512584100000,
+      "endTime": 1512585000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512585000000,
+      "endTime": 1512585900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512585900000,
+      "endTime": 1512586800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512586800000,
+      "endTime": 1512587700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512587700000,
+      "endTime": 1512588600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512588600000,
+      "endTime": 1512589500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512589500000,
+      "endTime": 1512590400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512590400000,
+      "endTime": 1512591300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512591300000,
+      "endTime": 1512592200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512592200000,
+      "endTime": 1512593100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512593100000,
+      "endTime": 1512594000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512594000000,
+      "endTime": 1512594900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512594900000,
+      "endTime": 1512595800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512595800000,
+      "endTime": 1512596700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512596700000,
+      "endTime": 1512597600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512597600000,
+      "endTime": 1512598500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512598500000,
+      "endTime": 1512599400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/7\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512640800000,
+      "endTime": 1512641700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512641700000,
+      "endTime": 1512642600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512642600000,
+      "endTime": 1512643500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512643500000,
+      "endTime": 1512644400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512644400000,
+      "endTime": 1512645300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512645300000,
+      "endTime": 1512646200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512646200000,
+      "endTime": 1512647100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512647100000,
+      "endTime": 1512648000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512648000000,
+      "endTime": 1512648900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512648900000,
+      "endTime": 1512649800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512649800000,
+      "endTime": 1512650700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512650700000,
+      "endTime": 1512651600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512651600000,
+      "endTime": 1512652500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512652500000,
+      "endTime": 1512653400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512653400000,
+      "endTime": 1512654300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512654300000,
+      "endTime": 1512655200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512655200000,
+      "endTime": 1512656100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512656100000,
+      "endTime": 1512657000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512657000000,
+      "endTime": 1512657900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512657900000,
+      "endTime": 1512658800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512658800000,
+      "endTime": 1512659700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512659700000,
+      "endTime": 1512660600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512660600000,
+      "endTime": 1512661500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512661500000,
+      "endTime": 1512662400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512662400000,
+      "endTime": 1512663300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512663300000,
+      "endTime": 1512664200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512664200000,
+      "endTime": 1512665100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512665100000,
+      "endTime": 1512666000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512666000000,
+      "endTime": 1512666900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512666900000,
+      "endTime": 1512667800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512667800000,
+      "endTime": 1512668700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512668700000,
+      "endTime": 1512669600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512669600000,
+      "endTime": 1512670500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512670500000,
+      "endTime": 1512671400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512671400000,
+      "endTime": 1512672300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512672300000,
+      "endTime": 1512673200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512673200000,
+      "endTime": 1512674100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512674100000,
+      "endTime": 1512675000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512675000000,
+      "endTime": 1512675900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512675900000,
+      "endTime": 1512676800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512676800000,
+      "endTime": 1512677700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512677700000,
+      "endTime": 1512678600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512678600000,
+      "endTime": 1512679500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512679500000,
+      "endTime": 1512680400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512680400000,
+      "endTime": 1512681300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512681300000,
+      "endTime": 1512682200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512682200000,
+      "endTime": 1512683100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512683100000,
+      "endTime": 1512684000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512684000000,
+      "endTime": 1512684900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512684900000,
+      "endTime": 1512685800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ],
+  "12\/8\/2017": [
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512727200000,
+      "endTime": 1512728100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512728100000,
+      "endTime": 1512729000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512729000000,
+      "endTime": 1512729900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512729900000,
+      "endTime": 1512730800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512730800000,
+      "endTime": 1512731700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512731700000,
+      "endTime": 1512732600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512732600000,
+      "endTime": 1512733500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512733500000,
+      "endTime": 1512734400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512734400000,
+      "endTime": 1512735300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512735300000,
+      "endTime": 1512736200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512736200000,
+      "endTime": 1512737100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512737100000,
+      "endTime": 1512738000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512738000000,
+      "endTime": 1512738900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512738900000,
+      "endTime": 1512739800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512739800000,
+      "endTime": 1512740700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512740700000,
+      "endTime": 1512741600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512741600000,
+      "endTime": 1512742500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512742500000,
+      "endTime": 1512743400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512743400000,
+      "endTime": 1512744300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512744300000,
+      "endTime": 1512745200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512745200000,
+      "endTime": 1512746100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512746100000,
+      "endTime": 1512747000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512747000000,
+      "endTime": 1512747900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512747900000,
+      "endTime": 1512748800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512748800000,
+      "endTime": 1512749700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512749700000,
+      "endTime": 1512750600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512750600000,
+      "endTime": 1512751500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512751500000,
+      "endTime": 1512752400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512752400000,
+      "endTime": 1512753300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512753300000,
+      "endTime": 1512754200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512754200000,
+      "endTime": 1512755100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512755100000,
+      "endTime": 1512756000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512756000000,
+      "endTime": 1512756900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512756900000,
+      "endTime": 1512757800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512757800000,
+      "endTime": 1512758700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512758700000,
+      "endTime": 1512759600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512759600000,
+      "endTime": 1512760500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512760500000,
+      "endTime": 1512761400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512761400000,
+      "endTime": 1512762300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512762300000,
+      "endTime": 1512763200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512763200000,
+      "endTime": 1512764100000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512764100000,
+      "endTime": 1512765000000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512765000000,
+      "endTime": 1512765900000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512765900000,
+      "endTime": 1512766800000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512766800000,
+      "endTime": 1512767700000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512767700000,
+      "endTime": 1512768600000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512768600000,
+      "endTime": 1512769500000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512769500000,
+      "endTime": 1512770400000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512770400000,
+      "endTime": 1512771300000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    },
+    {
+      "venue": {
+        "id": "56bc99b0d27e3efd5e7daeee",
+        "name": "Itaim Bibi"
+      },
+      "startTime": 1512771300000,
+      "endTime": 1512772200000,
+      "slots": 5,
+      "maxSlots": 5,
+      "isUsed": false,
+      "totalUsed": 0,
+      "max": 5
+    }
+  ]
+}

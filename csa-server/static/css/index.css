@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:400,200,700");
+.center-element {
+  margin: auto;
+}
+.center-text {
+  text-align: center;
+}
+.hide {
+  visibility: hidden;
+  opacity: 0;
+}
+.show {
+  visibility: visible;
+  opacity: 1;
+}
+.removed {
+  display: none;
+  opacity: 0;
+}
+.displayed {
+  display: block;
+  opacity: 0;
+}
+input.error {
+  border: 1px solid /*dotted*/ #f00 !important;
+}
+.typewriter {
+  overflow: auto;
+  border-right: transparent /*.15em solid gray*/;
+  white-space: nowrap;
+  letter-spacing: 0.2em;
+  animation: typing 3.5s steps(30, end) /*,
+    blink-caret .75s step-end infinite*/;
+}
+.typewriter::-webkit-scrollbar {
+  display: none;
+}
+::selection {
+  background: #c2e7c8; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #c2e7c8; /* Gecko Browsers */
+}
+a:link {
+  color: #777;
+}
+a:visited {
+  color: #999;
+}
+a:hover {
+  color: #47b969;
+}
+a:active {
+  color: #888;
+}
+body {
+  font-family: 'Source Code Pro', 'Source Sans Pro', Helvetica, Arial, Sans-Serif, sans-serif, monospace;
+  text-align: center;
+  position: relative;
+  margin: 0;
+  background: url("/img/csa-unisex-128.png") no-repeat 10px 10px fixed;
+}
+body .header {
+  color: #46b769;
+  text-shadow: 1px 1px #006400;
+  padding-top: 20px;
+  min-height: 40px;
+  padding-bottom: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+body .content {
+  overflow: auto;
+  height: 90%;
+  width: 100%;
+}
+body .content .chat {
+/*max-height: 60%; */
+  overflow: auto scroll;
+  margin-bottom: 130px;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 1px;
+  min-height: 80px;
+  list-style-type: none;
+  color: #fff;
+}
+body .content .chat li {
+  padding: 20px;
+  max-width: 60%;
+  margin-bottom: 6px !important;
+}
+body .content .chat li p {
+  display: inline-block;
+  margin: 0;
+}
+body .content .chat .agent-speech {
+  background-color: #46b769;
+  border-radius: 0.4em;
+  text-align: left;
+}
+body .content .chat .customer-speech {
+  background-color: #e6e6e6;
+  color: #5c6667;
+  border-radius: 0.4em;
+  text-align: right;
+}
+body .content .entry-speech {
+  position: fixed;
+  bottom: 60px;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #e6e6e6;
+  border-radius: 0.4em;
+  color: #0a0a0a;
+  margin: auto;
+}
+body .content .entry-speech button {
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 60px;
+  height: 30px;
+  border-radius: 0.4em;
+  box-shadow: 1px 1px 1px #ababab;
+}
+body .content .entry-speech input.text-entry,
+body .content .entry-speech textarea.text-entry,
+body .content .entry-speech select.select-entry {
+  max-width: 56%;
+  min-width: 52%;
+  text-align: inherit;
+  background-color: inherit;
+  border: none;
+  outline: none;
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+body .footer {
+  height: 60px;
+  width: 100%;
+  background-color: #273c44;
+  color: #8b9a9c;
+  position: fixed;
+  bottom: 0;
+}
+body .footer .copyright {
+  margin-top: 10px;
+  margin-bottom: 4px;
+  color: #8b9a9c;
+}
+body .footer div {
+  font-size: 12px;
+}
+@-moz-keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-webkit-keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-o-keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@-moz-keyframes blink-caret {
+  from, to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #808080;
+  }
+}
+@-webkit-keyframes blink-caret {
+  from, to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #808080;
+  }
+}
+@-o-keyframes blink-caret {
+  from, to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #808080;
+  }
+}
+@keyframes blink-caret {
+  from, to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #808080;
+  }
+}

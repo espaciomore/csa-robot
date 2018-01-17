@@ -1,0 +1,25 @@
+{
+  "public_key":  "TEST-04a3f2db-0812-4641-8186-8c3d050310e1",
+  "card_id": null,
+  "first_six_digits": null,
+  "luhn_validation": null,
+  "date_used": null,
+  "status":  "active",
+  "date_due":  "2017-12-08T22:38:43.075-04:00",
+  "live_mode": false,
+  "card_number_length": null,
+  "id":  "7ec69913c38431aab98aca6b33ee4774",
+  "security_code_length": null,
+  "expiration_year": null,
+  "expiration_month": null,
+  "date_last_updated":  "2017-11-30T22:38:43.075-04:00",
+  "last_four_digits": null,
+  "cardholder": {
+    "identification": {
+      "number": null,
+      "type": null
+    },
+    "name": null
+  },
+  "date_created":  "2017-11-30T22:38:43.075-04:00"
+}

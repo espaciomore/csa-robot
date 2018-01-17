@@ -1,0 +1,31 @@
+{
+  "vehicle": {
+    "seller": {
+      "name": "manuel",
+      "email": "manuel@instacarro.com",
+      "telephone": "(11) 9532-5163",
+      "ambassadorShortCode": "",
+      "homeInfo": {
+        "address": "",
+        "zipcode": "",
+        "number": "",
+        "complement": ""
+      },
+      "googleAnalyticsId": null
+    },
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2005",
+    "slug": "FORD EXPLORER 2005 4.0 LIMITED 4X4 V6 GASOLINA 4P AUTOMATICO",
+    "car": "599f17d645633edb2aa667b9",
+    "isArmored": "true"
+  },
+  "inspection": {
+    "location": "56bc99b0d27e3efd5e7daeee",
+    "appointment": {
+      "dateStart": "2017-12-01T21:15:00.000Z",
+      "dateFinish": "2017-12-01T21:30:00.000Z"
+    }
+  },
+  confirm_new_appointment: true
+}

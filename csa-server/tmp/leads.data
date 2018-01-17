@@ -1,0 +1,19 @@
+{
+  "status": "WAITING_FOR_PRICE",
+  "make": "FORD",
+  "model": "EXPLORER",
+  "year": "2005",
+  "slug": "FORD EXPLORER 2005",
+  "name": "manuel",
+  "email": "manuel@instacarro.com",
+  "phone": "(11) 9532-5163",
+  "utm": {
+    "source": "",
+    "campaign": "",
+    "content": "",
+    "medium": "",
+    "term": ""
+  },
+  "googleAnalyticsId": null,
+  "mixpanelDistinctId": "160137bbee827e-07c357cb0a75fd-1e271709-100200-160137bbee941e"
+}

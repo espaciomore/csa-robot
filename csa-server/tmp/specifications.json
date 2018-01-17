@@ -1,0 +1,128 @@
+[
+  {
+  	"_id":"599f17da45633edb2aa67364",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 2SS COUPE V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 2SS COUPE V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":99216,
+  	  	"maxPrice":127200
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  },
+  {
+  	"_id":"599f17da45633edb2aa67388",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 2SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 2SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":118310,
+  	  	"maxPrice":151680
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  },
+  {
+  	"_id":"599f17da45633edb2aa674b6",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":119739,
+  	  	"maxPrice":153512
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  },
+  {
+  	"_id":"599f1b298413d2013a06bdb7",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 2SS COUPE V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 2SS COUPE V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":99216,
+  	  	"maxPrice":127200
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  },
+  {
+  	"_id":"599f1b298413d2013a06bdd9",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 2SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 2SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":118310,
+  	  	"maxPrice":151680
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  },
+  {
+  	"_id":"599f1b298413d2013a06bf11",
+  	"slug":"CHEVROLET CAMARO 2015 6.2 SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"make":"CHEVROLET",
+  	"model":"CAMARO",
+  	"version":"6.2 SS CONVERSIVEL V8 GASOLINA 2P AUTOMATICO",
+  	"year":2015,
+  	"multiplier":0.93,
+  	"deleted":false,
+  	"prices":[
+  	  {
+  	  	"minKm":0,
+  	  	"maxKm":999999999,
+  	  	"minPrice":119739,
+  	  	"maxPrice":153512
+  	  }
+  	],
+  	"cluster":"NA",
+  	"fipe":0,
+  	"__v":1
+  }
+]

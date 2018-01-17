@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,200,700')
+
+.center-element
+  margin: auto;
+
+.center-text
+  text-align: center;
+
+.hide
+  visibility: hidden;
+  opacity: 0;
+
+.show
+  visibility: visible;
+  opacity: 1.0;
+
+.removed
+  display: none;
+  opacity: 0;
+
+.displayed
+  display: block;
+  opacity: 0;
+
+input.error
+  border: 1px solid/*dotted*/ red !important;
+
+.typewriter 
+  overflow: auto; 
+  border-right: transparent/*.15em solid gray*/;
+  white-space: nowrap;
+  letter-spacing: .2em;
+  animation: 
+    typing 3.5s steps(30, end)/*,
+    blink-caret .75s step-end infinite*/;
+
+.typewriter::-webkit-scrollbar { 
+  display: none; 
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: gray; }
+}
+
+::selection 
+  background: rgb(194, 231, 200); /* WebKit/Blink Browsers */
+
+::-moz-selection 
+  background: rgb(194, 231, 200); /* Gecko Browsers */
+
+a:link {
+    color: #777;
+}
+
+a:visited {
+    color: #999;
+}
+
+a:hover {
+    color: #47b969;
+}
+
+a:active {
+    color: #888;
+}
+
+body
+  font-family 'Source Code Pro','Source Sans Pro',Helvetica,Arial,Sans-Serif,sans-serif,monospace
+  text-align: center;
+  position: relative;
+  margin: 0;
+  background: url('/img/csa-unisex-128.png') no-repeat 10px 10px fixed;
+
+  .header
+    color: rgb(70, 183, 105);
+    text-shadow: 1px 1px darkgreen;
+    padding-top: 20px;
+    min-height: 40px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+
+  .content
+    overflow: auto;
+    height: 90%;
+    width: 100%;
+
+    .chat
+      /*max-height: 60%; */
+      overflow: auto scroll;
+      margin-bottom: 130px;
+      padding-top: 20px;
+      padding-right: 40px;
+      padding-bottom: 1px;
+      min-height: 80px;
+      list-style-type: none;
+      color: rgb(255, 255, 255);
+      
+      li
+        padding: 20px;
+        max-width: 60%;
+        margin-bottom: 6px !important;
+
+        p
+          display: inline-block;
+          margin: 0;
+
+      .agent-speech
+        background-color: rgb(70, 183, 105);
+        border-radius: .4em;
+        text-align: left;
+
+      .customer-speech
+        background-color: #e6e6e6;
+        color: #5c6667;
+        border-radius: .4em;
+        text-align: right;
+
+    .entry-speech
+      position: fixed;
+      bottom: 60px;
+      left: 0;
+      right: 0;
+      padding: 20px;
+      width: 100%;
+      background-color: rgb(230, 230, 230);
+      border-radius: .4em;
+      color: #0a0a0a;
+      margin: auto;
+      
+      button
+        margin-right: 10px;
+        margin-left: 10px;
+        width: 60px;
+        height: 30px;
+        border-radius: .4em;
+        box-shadow: 1px 1px 1px #ababab;
+
+      input.text-entry, textarea.text-entry, select.select-entry
+        max-width: 56%;
+        min-width: 52%;
+        text-align: inherit;
+        background-color: inherit;
+        border: none;
+        outline: none;
+        border-color: inherit;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+
+  .footer
+    height: 60px;
+    width: 100%;
+    background-color: rgb(39, 60, 68);
+    color: #8b9a9c;
+    position: fixed;
+    bottom: 0;
+
+    .copyright
+      margin-top: 10px;
+      margin-bottom: 4px; 
+      color: #8b9a9c;
+
+    div
+      font-size: 12px;

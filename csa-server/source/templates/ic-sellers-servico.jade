@@ -1,0 +1,22 @@
+extends default
+
+block extra-header
+  link(rel='stylesheet', href='/other/jquery-ui.min.css')
+  script(type='text/javascript' src='/js/jquery.min.js')
+  script(type='text/javascript' src='/js/jquery-ui.min.js')
+  script(type='text/javascript' src='/js/pep.js')
+  script(type='text/javascript' src='/js/csa-bootstrap.js')
+  script(type='text/javascript' src='/js/ic-sellers-common.js')
+  script(type='text/javascript' src='/js/ic-sellers-servico.js')
+
+block header
+  //h1.header Agente de Serviço
+
+block content
+  div.content
+    ul.chat
+    div(class="entry-speech center-element center-text hide")
+block footer
+  div.footer
+    p.copyright.center-text Copyright © 2017 [...]
+    div Icons made by #[a(href="http://www.freepik.com" title="Freepik") Freepik] from #[a(href="https://www.flaticon.com/" title="Flaticon") www.flaticon.com] is licensed by #[a(href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank") CC 3.0 BY]

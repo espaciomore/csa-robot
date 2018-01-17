@@ -1,0 +1,21 @@
+makes.json => GET https://sandbox-api.instacarro.com/sellers/v2/search/makes?
+
+models.json => GET https://sandbox-api.instacarro.com/sellers/v2/search/models?make=CHEVROLET
+
+years.json => GET https://sandbox-api.instacarro.com/sellers/v2/search/years?make=CHEVROLET&model=CAMARO
+
+specifications.json => GET https://sandbox-api.instacarro.com/sellers/v2/search/specifications?make=CHEVROLET&model=CAMARO&year=2015
+
+venues.json => GET https://sandbox-api.instacarro.com/sellers/v2/venues
+
+slots.json => GET https://sandbox-api.instacarro.com/sellers/v2/venues/56bc99b0d27e3efd5e7daeee/slots?slug=CHEVROLET%20CAMARO%202015&startDate=12/01/2017&endDate=12/09/2017
+
+leads.data => POST https://sandbox-api.instacarro.com/sellers/v2/leads 
+
+register.data => POST https://sandbox-api.instacarro.com/sellers/v2/register
+
+price.json => GET https://sandbox-api.instacarro.com/sellers/v2/price?slug=FORD%20EXPLORER%202005%204.0%20LIMITED%204X4%20V6%20GASOLINA%204P%20AUTOMATICO&isArmored=false
+
+card_tokens => POST https://api.mercadopago.com/v1/card_tokens?public_key=TEST-04a3f2db-0812-4641-8186-8c3d050310e1&js_version=1.5.4&referer=https%3A//sandbox.instacarro.com
+
+payment_methos => GET https://api.mercadopago.com/v1/payment_methods?public_key=TEST-04a3f2db-0812-4641-8186-8c3d050310e1&js_version=1.5.4&locale=pt&referer=https%3A//sandbox.instacarro.com
