@@ -1,0 +1,4 @@
+# Warning Changing the name of your application after it has been deployed will destroy all storage volumes and result in the loss of all persistent data.
+name: "csa-robot"
+
+type: "nodejs:10"
