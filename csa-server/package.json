@@ -12,6 +12,7 @@
         "start": "node server"
     },
     "dependencies": {
+        "platformsh": "^0.0.1",
         "body-parser": "^1.18.2",
         "express": "^3.21.2",
         "got": "^8.0.1",
