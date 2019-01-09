@@ -1,4 +1,8 @@
 # Warning Changing the name of your application after it has been deployed will destroy all storage volumes and result in the loss of all persistent data.
 name: "csa-robot"
 
+# The type key defines the base container image that will be used to run the application.
 type: "nodejs:10"
+
+# Legal values for the size key are AUTO (the default), S, M, L, XL, XXL.
+size: S
