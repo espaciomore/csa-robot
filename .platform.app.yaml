@@ -10,9 +10,20 @@ size: S
 # Required
 disk: 1024 #1G
 
+dependencies:
+  nodejs:
+    pm2: "^2.0.0"
+
 web:
+  commands:
+    start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start server.js --no-daemon"
   locations:
     "/":
       root: "csa-robot"
-      passthru: "/csa/robot/agendamento"
+      passthru: false
       allow: true
+      rules:
+        \.(css|js|gif|jpe?g|png|ttf|eot|woff2?|otf|html|ico|svg?)$:
+          allow: true
+        ^/robots\.txt$:
+          allow: true
