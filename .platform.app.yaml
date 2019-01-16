@@ -14,5 +14,5 @@ web:
   locations:
     "/":
       root: "csa-robot"
-      passthru: "csa/robot/agendamento"
+      passthru: "/csa/robot/agendamento"
       allow: true
