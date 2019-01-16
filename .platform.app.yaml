@@ -27,3 +27,6 @@ web:
           allow: true
         ^/robots\.txt$:
           allow: true
+
+mounts:
+  "/run": "shared:files/run"
