@@ -16,7 +16,8 @@ dependencies:
 
 relationships:
     database: "mongodb:mongodb"
-    
+    "csa-robot": "csa-robot:http"
+
 web:
   commands:
     start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start csa-server/server.js --no-daemon"
