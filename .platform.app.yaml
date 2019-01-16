@@ -6,3 +6,13 @@ type: "nodejs:10"
 
 # Legal values for the size key are AUTO (the default), S, M, L, XL, XXL.
 size: S
+
+# Required
+disk: 1024 #1G
+
+web:
+  locations:
+    "/":
+      root: "csa-robot"
+      passthru: "csa/robot/agendamento"
+      allow: true
