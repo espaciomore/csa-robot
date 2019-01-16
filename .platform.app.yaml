@@ -16,7 +16,7 @@ dependencies:
 
 web:
   commands:
-    start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start server.js --no-daemon"
+    start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start csa-server/server.js --no-daemon"
   locations:
     "/":
       root: "csa-robot"
