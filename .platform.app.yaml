@@ -14,6 +14,9 @@ dependencies:
   nodejs:
     pm2: "^2.0.0"
 
+relationships:
+    database: "mongodb:mongodb"
+    
 web:
   commands:
     start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start csa-server/server.js --no-daemon"
