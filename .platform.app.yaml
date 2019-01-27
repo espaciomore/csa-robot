@@ -16,6 +16,7 @@ dependencies:
 
 web:
   commands:
+    db: "sudo service mongod start"
     start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start --no-daemon"
   locations:
     "/":
@@ -27,7 +28,6 @@ web:
           allow: true
         ^/robots\.txt$:
           allow: true
-relationships:
-  first_db: "db:mongodb"
+
 mounts:
   "/run": "shared:files/run"
