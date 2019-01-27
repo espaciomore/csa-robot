@@ -4,9 +4,11 @@ var express = require('express'),
     faq = require(__dirname + '/routes/faq-page'),
     csa = require(__dirname + '/routes/csa-page'),
     mongoose = require('mongoose');
+// Load the Platform.sh configuration
+var config= require("platformsh").config();
 
 var app = express(),
-	port = 3000;
+	port = config != undefined ? config.port : 3000;
 
 app.configure(function() {
 	// App setup
