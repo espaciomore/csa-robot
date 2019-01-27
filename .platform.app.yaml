@@ -16,8 +16,7 @@ dependencies:
 
 web:
   commands:
-    db: "sudo service mongod start"
-    start: "PM2_HOME=$PLATFORM_APP_DIR/run pm2 start --no-daemon"
+    start: "sudo service mongod start"
   locations:
     "/":
       root: "csa-server"
